@@ -1,4 +1,4 @@
-public class Profissao extends Cliente{
+public class Profissao {
 
 
 }
