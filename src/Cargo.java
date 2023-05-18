@@ -1,2 +1,2 @@
-public class Cargo extends Funcionario{
+public class Cargo {
 }
